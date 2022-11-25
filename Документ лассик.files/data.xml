@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Страница-1" NameU="Page-1">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Shapes>
+				<Shape ID="1" UniqueID="{335F9325-C465-4BAF-9C07-310E08F5EF72}" Name="Чрезвычайное происшествие" NameU="Incident" Master="2">
+					<XForm>
+						<PinX Unit="MM">3.346456692913386</PinX>
+						<PinY Unit="MM">9.251968503937007</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{F95A15D6-AEB5-418B-9EE0-F7465BEA5FE9}" Name="Отдел" NameU="Department" Master="4">
+					<Text>Страница-2</Text>
+					<XForm>
+						<PinX Unit="MM">4.133858267716535</PinX>
+						<PinY Unit="MM">6.889763779527558</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Страница-2</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+				</Shape>
+				<Shape ID="58" UniqueID="{72DCFF85-F494-460E-8FC7-8088C0FCDD11}" Name="Соглашение" NameU="Agreement" Master="5">
+					<XForm>
+						<PinX Unit="MM">3.543307086614172</PinX>
+						<PinY Unit="MM">4.724409448818897</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="4" Name="Страница-2" NameU="Page-2">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+		</Page>
+	</Pages>
+</VisioDocument>
